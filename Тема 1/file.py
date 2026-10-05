@@ -6,6 +6,7 @@ def linear_search(arr, target):
     return -1
 
 # 02
+# O(n). Чем больше элементов в массиве, тем сложнее
 
 # 03
 import random
